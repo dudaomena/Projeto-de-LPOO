@@ -1,4 +1,4 @@
-package jogo.Modelo;
+package fasesjogo;
 
 import java.awt.Graphics;
 import java.awt.Graphics2D;
